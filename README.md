@@ -1,5 +1,5 @@
-# College-bot-using-A.I-and-Machine-Learning
-# Nsure-Motor-Policy-Issuance-System
+# College-bot-using-A.I
+
 
 ## Module 1:  (By Mohamed Sharuk CM)
         -Workshop
@@ -37,30 +37,29 @@ ___
 | :-----------------------------  | :-------------: | :-------------: | 
 | Workshop                        | 18-12-2017      | 31-01-2018      | 
 | Internship                      | 01-02-2018      | 15-03-2018      | 
-                               
+                            
 
 ***
 ### Module 2
 
 | Splitup                         | Start date    | End Date      | 
 | -----------------------------: | :-------------: | :-------------: | 
-| Symposium                      | 18-12-2017    | 31-12-2017    | 
-| Hackathon                      | 02-01-2018    | 20-01-2018    | 
-|Extra events                    | 21-01-2018    | 05-02-2018    | 
-|                                | 06-02-2018    | 15-03-2018    | 
+| Symposium                      | 18-12-2017    | 01-01-2018    | 
+| Hackathon                      | 02-01-2018    | 28-01-2018    | 
+|Extra events                    | 29-01-2018    | 15-03-2018    | 
 
 ***
 ### Module 3
 | Splitup                       | Start date    | End Date      | 
 | :----------------------------:| :-------------: | :-------------: | 
-|Job vacancy                    | 18-12-2017    | 15-03-2018    |
-|Study materials
+|Job vacancy                    | 18-12-2017    | 31-01-2018    |
+|Study materials                | 01-02-2018    | 15-03-2018    |
 
 ***
 ### Module 4
 | Splitup                       | Start date    | End Date      | 
 | -----------------------------: | :-------------: | :-------------: | 
 |Database                       | 18-12-2018    | 15-03-2018    |
-|API
+|API 
 
 
