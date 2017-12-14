@@ -1,4 +1,4 @@
-# College-bot-using-A.I
+# College-bot-using-AI
 
 
 ## Module 1:  (By Mohamed Sharuk CM)
