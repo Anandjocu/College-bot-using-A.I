@@ -22,10 +22,10 @@ ___
 
 ### Module 1
 
-| Splitup                          | Start date      | End Date        | 
-| :-----------------------------   | :-------------: | :-------------: | 
-| Framing Database Structure       | 18-12-2017      | 31-01-2018      | 
-| Handling Information Availability| 01-02-2018      | 15-03-2018      | 
+| Splitup                            | Start date      | End Date        | 
+| :-----------------------------     | :-------------: | :-------------: | 
+| Tensor flow integration with python| 18-12-2017      | 31-01-2018      | 
+| Framing Database Structure         | 01-02-2018      | 15-03-2018      | 
                             
 
 ***
@@ -33,22 +33,22 @@ ___
 
 | Splitup                        | Start date    | End Date      | 
 | -----------------------------: | :-----------: | :-----------: | 
-| UI Designing                   | 18-12-2017    | 01-01-2018    | 
-| Configuring and Testing        | 02-01-2018    | 15-03-2018    | 
+| Bot creation using tensor flow | 18-12-2017    | 01-01-2018    | 
+| Creating UI                    | 02-01-2018    | 15-03-2018    | 
 |                               
 
 ***
 ### Module 3
 | Splitup                       | Start date    | End Date      | 
 | :----------------------------:| :-----------: | :-----------: | 
-|Admin Portal                   | 18-12-2017    | 31-01-2018    |
-|Open Portal                    | 01-02-2018    | 15-03-2018    |
+|Implement NLP in th bot        | 18-12-2017    | 31-01-2018    |
+|Train the bot                  | 01-02-2018    | 15-03-2018    |
 
 ***
 ### Module 4
-| Splitup                        | Start date    | End Date      | 
-| -----------------------------: | :-----------: | :-----------: | 
-|Framing Questions               | 18-12-2018    | 31-01-2018    |
-|Feeding Questions               | 01-02-2018    | 15-03-2018    | 
+| Splitup                         | Start date    | End Date      | 
+| -----------------------------:  | :-----------: | :-----------: | 
+|Deploy the bot                   | 18-12-2018    | 31-01-2018    |
+|Handling information availability| 01-02-2018    | 15-03-2018    | 
 
 
