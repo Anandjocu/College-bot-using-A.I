@@ -2,20 +2,21 @@
 
 
 ## Module 1:  (By Mohamed Sharuk CM)
+        -Tensor flow integration with python
         -Framing Database Structure
-        -Handling Information Availability
-
+        
 ## Module 2:(By Anand S)
-        -UI Designing
-        -Configuring and Testing
+        -Bot creation using tensor flow
+        -Creating UI 
         
 ## Module 3:(By ArulKumar T)
-        -Admin Portal
-        -Open Portal
+        -Implement NLP in the bot
+        -Train the bot
 
 ## Module 4:(By Divya U)
-        -Framing Question
-        -Feeding questions
+        -Deploy the bot
+        -Handling Information Availability
+
        
 ___
 
