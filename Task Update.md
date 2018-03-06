@@ -11,7 +11,7 @@ ___
 | Integration of json with webpage                                 | 23-02-2018      | processing      |
 | Creation of flow in dialogflow                                   | 26-02-2018      | processing      |
 | 2nd review                                                       | 27-02-2018      | processing      |
-
+| Working on PHP,SQL                                               | 05-03-2018      | processing      |
 ***
 
 ## Arul Kumar
@@ -24,8 +24,8 @@ ___
 | Updation of dataset                                              | 23-02-2018      | processing      |
 | Bot testing with dataset                                         | 26-02-2018      | processing      |
 | 2nd review                                                       | 27-02-2018      | processing      |
-
-
+| Working on HTML to get details                                   | 05-03-2018      | processing      |
+   
 ***
 
 ## Divya
@@ -38,7 +38,7 @@ ___
 | Reffering database connectivity process                          | 23-02-2018      | processing      |
 | Creation of flow in dialogflow                                   | 26-02-2018      | processing      |
 | 2nd review                                                       | 27-02-2018      | processing      |
-
+| Updating data in dialogflow                                      | 05-03-2018      | processing      |
 
 
 ***
@@ -53,7 +53,7 @@ ___
 | Integration of json with webpage                                 | 23-02-2018      | processing      |
 | (ABSENT)                                                         | 26-02-2018      | processing      |
 | 2nd review                                                       | 27-02-2018      | processing      |
-
+| Working on PHP,SQL                                               | 05-03-2018      | processing      |
 
 
 
