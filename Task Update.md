@@ -55,7 +55,7 @@ ___
 | Creating hyperlink for bot                                       | 07-03-2018      | processing      |
 | Dialog flow data feeding                                         | 08-03-2018      | processing      |
 | (ABSENT)                                                         | 09-03-2018      | processing      |
-| (ABSENT)                                                         | 10-03-2018      | processing      |
+| Reference for adding url in bot                                  | 10-03-2018      | processing      |
 | Integration of bot in slack                                      | 12-03-2018      | completed       |
 
 
