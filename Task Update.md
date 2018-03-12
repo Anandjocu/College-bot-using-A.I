@@ -12,6 +12,12 @@ ___
 | Creation of flow in dialogflow                                   | 26-02-2018      | processing      |
 | 2nd review                                                       | 27-02-2018      | processing      |
 | Working on PHP,SQL                                               | 05-03-2018      | processing      |
+| Working on PHP,SQL                                               | 06-03-2018      | completed       |
+| Creating hyperlink for bot                                       | 07-03-2018      | processing      |
+| Integration of bot in dialogflow                                 | 08-03-2018      | processing      |
+| (ABSENT)                                                         | 09-03-2018      | processing      |
+| (ABSENT)                                                         | 10-03-2018      | processing      |
+| Bot integration and updation                                     | 12-03-2018      | processing      |
 ***
 
 ## Arul Kumar
@@ -25,6 +31,12 @@ ___
 | Bot testing with dataset                                         | 26-02-2018      | processing      |
 | 2nd review                                                       | 27-02-2018      | processing      |
 | Working on HTML to get details                                   | 05-03-2018      | processing      |
+| Updating data in dialogflow                                      | 06-03-2018      | processing      |
+| Data feeding in dailogflow                                       | 07-03-2018      | processing      |
+| (ABSENT)                                                         | 08-03-2018      | processing      |
+| (ABSENT)                                                         | 09-03-2018      | processing      |
+| Data feeding in dialogflow and testing                           | 10-03-2018      | processing      |
+| (ABSENT)                                                         | 12-03-2018      | processing      |
    
 ***
 
@@ -39,6 +51,12 @@ ___
 | Creation of flow in dialogflow                                   | 26-02-2018      | processing      |
 | 2nd review                                                       | 27-02-2018      | processing      |
 | Updating data in dialogflow                                      | 05-03-2018      | processing      |
+| Working on PHP,SQL                                               | 06-03-2018      | completed       |
+| Creating hyperlink for bot                                       | 07-03-2018      | processing      |
+| Dialog flow data feeding                                         | 08-03-2018      | processing      |
+| (ABSENT)                                                         | 09-03-2018      | processing      |
+| (ABSENT)                                                         | 10-03-2018      | processing      |
+| Integration of bot in slack                                      | 12-03-2018      | completed       |
 
 
 ***
@@ -54,6 +72,12 @@ ___
 | (ABSENT)                                                         | 26-02-2018      | processing      |
 | 2nd review                                                       | 27-02-2018      | processing      |
 | Working on PHP,SQL                                               | 05-03-2018      | processing      |
+| Working on PHP,SQL                                               | 06-03-2018      | completed       |
+| Creating hyperlink for bot                                       | 07-03-2018      | processing      |
+| Integration of bot in dialogflow                                 | 08-03-2018      | processing      |
+| (ABSENT)                                                         | 09-03-2018      | processing      |
+| Adding hyperlink in dialogflow bot                               | 10-03-2018      | processing      |
+| Slack integration and testing                                    | 12-03-2018      | completed       |
 
 
 
