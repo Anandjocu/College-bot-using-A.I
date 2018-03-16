@@ -18,6 +18,9 @@ ___
 | (ABSENT)                                                         | 09-03-2018      | processing      |
 | (ABSENT)                                                         | 10-03-2018      | processing      |
 | Bot integration and updation                                     | 12-03-2018      | processing      |
+| Creating UI for admission form                                   | 13-03-2018      | processing      |
+| Creating UI for admission form                                   | 14-03-2018      | processing      |
+| Creating UI for admission form                                   | 15-03-2018      | completed       |
 ***
 
 ## Arul Kumar
@@ -37,7 +40,9 @@ ___
 | (ABSENT)                                                         | 09-03-2018      | processing      |
 | Data feeding in dialogflow and testing                           | 10-03-2018      | processing      |
 | (ABSENT)                                                         | 12-03-2018      | processing      |
-   
+| Training the bot in dialog flow                                  | 13-03-2018      | processing      |
+| Training the bot in dialog flow                                  | 14-03-2018      | processing      |
+| Integrating the bot with slack                                   | 15-03-2018      | processing      |
 ***
 
 ## Divya
@@ -57,7 +62,9 @@ ___
 | (ABSENT)                                                         | 09-03-2018      | processing      |
 | Reference for adding url in bot                                  | 10-03-2018      | processing      |
 | Integration of bot in slack                                      | 12-03-2018      | completed       |
-
+| Updating the intents in dialog flow                              | 13-03-2018      | processing      |
+| Updating the intents in dialog flow                              | 14-03-2018      | completed       |
+| Reference for adding image as response                           | 15-03-2018      | processing      |
 
 ***
 
@@ -78,6 +85,8 @@ ___
 | (ABSENT)                                                         | 09-03-2018      | processing      |
 | Adding hyperlink in dialogflow bot                               | 10-03-2018      | processing      |
 | Slack integration and testing                                    | 12-03-2018      | completed       |
-
+| Creating UI for various departments                              | 13-03-2018      | processing      |
+| Creating UI for various departments                              | 14-03-2018      | processing      |
+| Creating UI for various departments                              | 15-03-2018      | completed       |
 
 
